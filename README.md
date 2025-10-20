@@ -1,4 +1,4 @@
-<img src="docs/logo_roberto.png" alt="Logo del proyecto" width="110" align="right">
+<img src="docs/logo_roberto.jpg" alt="Logo del proyecto" width="110" align="right">
 
 # Vehículo Robótico 2WD con Control Bluetooth y Navegación Autónoma
 ## Johan Alejandro Van Kesteren González -Décimo Grado | Colegio Gimnasio Inglés 
